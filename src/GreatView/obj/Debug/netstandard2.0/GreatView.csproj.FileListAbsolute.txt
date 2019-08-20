@@ -130,3 +130,7 @@ C:\Git\GreatView\src\GreatView\bin\Debug\netstandard2.0\wwwroot\icons\icon-192-1
 C:\Git\GreatView\src\GreatView\bin\Debug\netstandard2.0\wwwroot\icons\icon-512-512.png
 C:\Git\GreatView\src\GreatView\bin\Debug\netstandard2.0\wwwroot\index.html
 C:\Git\GreatView\src\GreatView\bin\Debug\netstandard2.0\wwwroot\manifest.json
+C:\Git\GreatView\src\greatview\bin\Debug\netstandard2.0\wwwroot\404.html
+C:\Git\GreatView\src\greatview\bin\Debug\netstandard2.0\wwwroot\CNAME
+C:\Git\GreatView\src\greatview\bin\Debug\netstandard2.0\wwwroot\favicon.ico
+C:\Git\GreatView\src\greatview\bin\Debug\netstandard2.0\wwwroot\nojekyll
